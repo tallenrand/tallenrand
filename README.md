@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tallenrand
 - 👀 I’m interested in baseball, motorcycles, and Unreal Engine.
-- 🌱 I’m currently learning web development.
+- 🌱 I’m currently learning information security.
 - 💞️ I’m looking to collaborate on any Unreal Engine project.
 - 📫 DM.
 
