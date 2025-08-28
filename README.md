@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tallenrand
 - 👀 I’m interested in baseball, motorcycles, and Unreal Engine.
 - 🌱 I’m currently building games in Unreal Engine.
-- 💞️ I’m looking to collaborate on any Unreal Engine project.
+- 💞️ I’m looking to collaborate on Unreal Engine projects.
 - 📫 DM.
 
 <!---
